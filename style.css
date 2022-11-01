@@ -53,7 +53,7 @@ a {
 figure {
 height: 300px;
 width: auto;
-background-image: url(../images/banner.png);
+background-image: url(./images/Banner.jpg);
 background-size: cover;
 background-position: center;
 
